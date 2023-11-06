@@ -1,0 +1,9 @@
+Oracle Cloud Infrastructure Architect Associate cousre notes:
+lap pas:rdw-hfc-buz7bkz2FXJ
+ - Netwwork:
+   +LPG: to advrised to vcn to vcn indide same compartent
+   +service getaway :The Oracle Service gateway behaves a little bit different, and it will grant access to the Oracle Service network to your resources that you have on premise through either FastConnect, or through your VPN-- site-to-site VPN.
+   **the service gateway, the NAT gateway, the local peering gateway, and the internet gateway are internal to the VCN. You can create them from within the VCN.
+   +NAT:
+     - natting is-- Network Address Translation. This is a networking technique that is used to give an entire private network access to the internet, an entire private network or an entire private subnet, without assigning each one of the hosts a public IPv4 address.
+     - 
